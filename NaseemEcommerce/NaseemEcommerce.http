@@ -1,0 +1,6 @@
+@NaseemEcommerce_HostAddress = http://localhost:5043
+
+GET {{NaseemEcommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

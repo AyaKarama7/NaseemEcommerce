@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "NaseemEcommerce.Controllers.ProductController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Product/products-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NaseemEcommerce.Controllers.ProductController",
+    "Method": "GetProductsByBrand",
+    "RelativePath": "api/Product/products-brand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brand",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NaseemEcommerce.Controllers.ProductController",
+    "Method": "GetProductsByCategory",
+    "RelativePath": "api/Product/products-category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NaseemEcommerce.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/products-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NaseemEcommerce.Controllers.ProductController",
+    "Method": "GetProductsByPrice",
+    "RelativePath": "api/Product/products-price",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minPrice",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
