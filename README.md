@@ -103,6 +103,7 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 
 - Adding email notifications.
 - Role-based authorization enhancements.
+- Create UI using Angular Framewoek.
 
 ---
 
