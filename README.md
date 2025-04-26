@@ -108,4 +108,4 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 
 ## 🧑‍💻 Author
 
-- **AyaKarama7** — [LinkedIn](#) | [GitHub](#)
+- **AyaKarama7** — [[LinkedIn](https://www.linkedin.com/in/aya-ahmed-karamah-90257a24a/)](#) | [[GitHub](https://github.com/AyaKarama7)](#)
