@@ -2,11 +2,11 @@
 {
     public class DisplayManyProductsDTO
     {
-        public Guid Id;
-        public string Name;
-        public decimal Price { get; set; }
-        public string Image { get; set; }
-        public int Discount { get; set; }
-        public bool IsActive { get; set; }
+        public Guid Id { get; }
+        public string Name { get; }
+        public decimal Price { get; }
+        public string Image { get; }
+        public int Discount { get; }
+        public bool IsActive { get; }
     }
 }

@@ -2,14 +2,14 @@
 {
     public class DisplayOneProductDTO
     {
-        public Guid Id;
-        public string Name;
-        public string Description { get; set; }
-        public string Brand { get; set; }
-        public decimal Price { get; set; }
-        public string Image { get; set; }
-        public int Discount { get; set; }
-        public bool IsActive { get; set; }
-        public string Category { get; set; }
+        public Guid Id { get; }
+        public string Name { get; }
+        public string Description { get; }
+        public string Brand { get; }
+        public decimal Price { get; }
+        public string Image { get; }
+        public int Discount { get; }
+        public bool IsActive { get; }
+        public string Category { get; }
     }
 }

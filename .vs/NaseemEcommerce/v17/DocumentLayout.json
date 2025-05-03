@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\repositories\\queryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\repositories\\queryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\repositories\\iqueryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\repositories\\iqueryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\dtos\\displaycartitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\dtos\\displaycartitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\dtos\\displayoneproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\dtos\\displayoneproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\dtos\\displaymanyproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\dtos\\displaymanyproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,157 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IProductServices.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Services\\IProductServices.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Services\\IProductServices.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Services\\IProductServices.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Services\\IProductServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:30:12.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Services\\ProductServices.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Services\\ProductServices.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Services\\ProductServices.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Services\\ProductServices.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:30:11.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QueryProductRepository.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Repositories\\QueryProductRepository.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Repositories\\QueryProductRepository.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Repositories\\QueryProductRepository.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Repositories\\QueryProductRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:30:03.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IQueryProductRepository.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Repositories\\IQueryProductRepository.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Repositories\\IQueryProductRepository.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Repositories\\IQueryProductRepository.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Repositories\\IQueryProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:57.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Review.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Models\\Review.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Review.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:41.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Product.cs",
               "RelativeDocumentMoniker": "NaseemEcommerce\\Models\\Product.cs",
               "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Product.cs",
               "RelativeToolTip": "NaseemEcommerce\\Models\\Product.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:35.236Z",
+              "WhenOpened": "2025-05-03T01:18:40.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Models\\Brand.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Models\\Brand.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DisplayCartItemsDTO.cs",
+              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayCartItemsDTO.cs",
+              "RelativeDocumentMoniker": "NaseemEcommerce\\DTOs\\DisplayCartItemsDTO.cs",
+              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayCartItemsDTO.cs",
+              "RelativeToolTip": "NaseemEcommerce\\DTOs\\DisplayCartItemsDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:27.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductMapper.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Mappers\\ProductMapper.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Mappers\\ProductMapper.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Mappers\\ProductMapper.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Mappers\\ProductMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:13.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DisplayOneProductDTO.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayOneProductDTO.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\DTOs\\DisplayOneProductDTO.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayOneProductDTO.cs",
-              "RelativeToolTip": "NaseemEcommerce\\DTOs\\DisplayOneProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:29:05.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DisplayManyProductsDTO.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayManyProductsDTO.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\DTOs\\DisplayManyProductsDTO.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\DTOs\\DisplayManyProductsDTO.cs",
-              "RelativeToolTip": "NaseemEcommerce\\DTOs\\DisplayManyProductsDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:28:58.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:28:50.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:17:44.061Z",
+              "WhenOpened": "2025-05-03T01:14:42.503Z",
               "EditorCaption": ""
             }
           ]
