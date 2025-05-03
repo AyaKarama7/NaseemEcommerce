@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|f:\\iti\\projects\\naseemecommerce\\naseemecommerce\\naseemecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB94F16-6010-4B6A-86BE-87AFE8821078}|NaseemEcommerce\\NaseemEcommerce.csproj|solutionrelative:naseemecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Migrations\\20250503003257_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NaseemEcommerce\\Migrations\\20250503003257_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "NaseemEcommerce\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "NaseemEcommerce\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Title": "20250503003257_m2.cs",
+              "DocumentMoniker": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Migrations\\20250503003257_m2.cs",
+              "RelativeDocumentMoniker": "NaseemEcommerce\\Migrations\\20250503003257_m2.cs",
+              "ToolTip": "F:\\ITI\\Projects\\NaseemEcommerce\\NaseemEcommerce\\NaseemEcommerce\\Migrations\\20250503003257_m2.cs",
+              "RelativeToolTip": "NaseemEcommerce\\Migrations\\20250503003257_m2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:17:44.061Z",
+              "WhenOpened": "2025-05-03T00:32:57.968Z",
               "EditorCaption": ""
             }
           ]

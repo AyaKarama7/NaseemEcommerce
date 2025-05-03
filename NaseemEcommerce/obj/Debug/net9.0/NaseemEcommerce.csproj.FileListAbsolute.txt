@@ -171,3 +171,4 @@ F:\ITI\Projects\NaseemEcommerce\NaseemEcommerce\NaseemEcommerce\obj\Debug\net9.0
 F:\ITI\Projects\NaseemEcommerce\NaseemEcommerce\NaseemEcommerce\obj\Debug\net9.0\NaseemEcommerce.genruntimeconfig.cache
 F:\ITI\Projects\NaseemEcommerce\NaseemEcommerce\NaseemEcommerce\obj\Debug\net9.0\ref\NaseemEcommerce.dll
 F:\ITI\Projects\NaseemEcommerce\NaseemEcommerce\NaseemEcommerce\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ITI\Projects\NaseemEcommerce\NaseemEcommerce\NaseemEcommerce\obj\Debug\net9.0\NaseemEcommerce.sourcelink.json

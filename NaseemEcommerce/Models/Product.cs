@@ -14,5 +14,6 @@
         public Guid BrandId { get; set; }
         public Brand Brand { get; set; }
         public List<Review> Reviews { get; set; }
+        public List<CartItems> CartItems { get; set; }
     }
 }
