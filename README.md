@@ -18,13 +18,13 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 
 ## ✨ Key Features
 
-- **N-Tier Architecture** for clean, scalable code separation.
+- **Clean Architecture** for clean, scalable code separation.
 - **Secure Authentication** using JWT.
 - **Stripe Payment Integration** for handling transactions.
 - **Real-Time Admin Notifications** for new orders using SignalR.
 - **Admin Dashboard** to manage products, orders, and users.
-- **User Features**: Cart management, subscription handling.
-- **File Management**: Uploading/downloading contracts and images.
+- **User Features**: Cart management.
+- **File Management**: Uploading images.
 - **Manual API Testing** with Swagger and Postman.
 - - Unit testing.
 
