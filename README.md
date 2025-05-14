@@ -1,6 +1,6 @@
 # Naseem E-commerce Web API
 
-An E-commerce backend built with modern .NET practices, featuring N-Tier architecture, real-time notifications, secure payments, and powerful admin management tools.
+An E-commerce backend built with modern .NET practices, featuring Clean architecture, and powerful admin management.
 
 ---
 
@@ -10,8 +10,6 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 - **ORM**: Entity Framework Core  
 - **Database**: SQL Server  
 - **Authentication**: JWT  
-- **Real-Time**: SignalR  
-- **Payments**: Stripe API  
 - **Testing Tools**: Swagger, Postman
 
 ---
@@ -20,31 +18,11 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 
 - **Clean Architecture** for clean, scalable code separation.
 - **Secure Authentication** using JWT.
-- **Stripe Payment Integration** for handling transactions.
-- **Real-Time Admin Notifications** for new orders using SignalR.
 - **Admin Dashboard** to manage products, orders, and users.
 - **User Features**: Cart management.
 - **File Management**: Uploading images.
 - **Manual API Testing** with Swagger and Postman.
 - - Unit testing.
-
----
-
-## 📦 Project Structure
-
-```
-/NaseemEcommerceAPI
-│
-├── /Controllers
-├── /Services
-├── /Repositories
-├── /DTOs
-├── /Models
-├── /Data (EF Core DbContext)
-├── /Middleware (JWT Authentication)
-├── /RealTime (SignalR Hubs)
-└── /Utils
-```
 
 ---
 
@@ -54,19 +32,17 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Stripe Account](https://stripe.com/) (for payment integration)
 
 ### Setup Steps
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/naseem-ecommerce-api.git
+   git clone https://github.com/AyaKarama7/NaseemEcommerce.git
    ```
 
 2. **Update appsettings.json:**
    - Add your SQL Server connection string.
    - Add JWT secret keys.
-   - Add Stripe API keys.
 
 3. **Apply migrations:**
    ```bash
@@ -104,7 +80,8 @@ An E-commerce backend built with modern .NET practices, featuring N-Tier archite
 - Adding email notifications.
 - Role-based authorization enhancements.
 - Create UI using Angular Framewoek.
-
+-Intgration with stripe
+-using cashing redis 
 ---
 
 ## 🧑‍💻 Author
