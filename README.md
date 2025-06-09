@@ -22,7 +22,6 @@ An E-commerce backend built with modern .NET practices, featuring Clean architec
 - **User Features**: Cart management.
 - **File Management**: Uploading images.
 - **Manual API Testing** with Swagger and Postman.
-- - Unit testing.
 
 ---
 
@@ -78,10 +77,9 @@ An E-commerce backend built with modern .NET practices, featuring Clean architec
 ## 🛠️ Future Improvements
 
 - Adding email notifications.
-- Role-based authorization enhancements.
 - Create UI using Angular Framewoek.
--Intgration with stripe
--using cashing redis 
+- Intgration with stripe
+- using cashing redis 
 ---
 
 ## 🧑‍💻 Author
